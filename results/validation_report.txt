@@ -1,0 +1,7 @@
+Longitudinal Bayesian Networks reproducibility validation
+Timestamp: 2026-08-11 11:22:12 UTC
+R: R version 4.6.0 (2026-04-24 ucrt)
+Target: preprint arXiv:2608.09824v1
+STATUS: PASS WITH DOCUMENTED SOURCE DISCREPANCY
+Tables 2-6 match the manuscript at the reported precision; all six PNG figures were generated.
+SOURCE NOTE: Table 7 is computed from the supplied MCMC draws but differs slightly from the PDF (maximum mean difference 0.003682; Michael Bradley 0.5573 from draws versus 0.561 in the PDF).
